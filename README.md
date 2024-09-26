@@ -39,6 +39,7 @@ cd aencode
 Run the script using the following command:
 
 ```bash
+python aencode.py -h
 python aencode.py -i "<input_string>" -ce "<chars_to_encode>" -e "<method>" -d <depth>
 ```
 
